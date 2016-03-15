@@ -1,0 +1,40 @@
+/*
+Theme Name: Newave Child
+Template: newave-theme
+Author: Child Theme Configurator
+Version: 1.0.1458002719
+Updated: 2016-03-15 00:45:19
+*/
+
+@charset "UTF-8";
+/*************************************imported from demo*************************************************/
+.light h1 {
+color:#fff;
+}
+.parallax {
+overflow: hidden;
+}
+.dropcap {
+font-size: 30px;
+margin: 3px 8px 0 0;
+line-height: 47px;
+}
+
+.wine-production {
+padding:50px;
+}
+.dark-background h1, .dark-background h2, .dark-background h3, .dark-background h4, .dark-background h5, .dark-background h6 {
+color:#fff;
+}
+.dark-background {
+background-color:#000;
+}
+.medium {
+    line-height: 12px;
+    padding: 10px 15px 14px;
+}
+/*************************************imported from demo*************************************************/
+
+#map .small-width {
+    display: none;
+}
