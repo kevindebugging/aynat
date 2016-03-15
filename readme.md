@@ -1,0 +1,1 @@
+aynat child theme
